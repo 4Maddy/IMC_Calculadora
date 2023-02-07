@@ -7,3 +7,5 @@
 * Tabela utilizada como referencia para indicar a classificação corporal
 
 ![tabelaIMC](https://user-images.githubusercontent.com/106416909/217123219-7e722f8e-80ef-4f23-8da4-1702fc6289ed.jpeg)
+
+  _Desenvolvido durante o 2 semestre do curso de ADS (2022/2)._
